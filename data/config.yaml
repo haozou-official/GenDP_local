@@ -1,0 +1,5 @@
+_target_: sapien_env.rl_env.cube_picking_env.CubePickingRLEnv
+use_gui: true
+robot_name: panda
+frame_skip: 10
+use_visual_obs: true
